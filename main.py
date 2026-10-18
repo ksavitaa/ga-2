@@ -8,7 +8,7 @@ from fastapi.responses import JSONResponse
 
 # ---- Fill these in ----
 EMAIL = "22f3002678@ds.study.iitm.ac.in"
-EXAM_PAGE_ORIGIN = "https://exam.sanand.workers.dev/tds-2026-09-ga2"
+EXAM_PAGE_ORIGIN = "https://exam.sanand.workers.dev"
 # -----------------------
 
 ALLOWED_ORIGINS = [
